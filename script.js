@@ -20,6 +20,8 @@ function initScramble() {
         
         var numChoice = numArr[num];
 
+		// New comment
+
         /*
         while (num in numArr) {
           
